@@ -1,10 +1,20 @@
 # RTSAI
 Project to create a AI for a RTS (Real-Time Strategie) game project at ISART
 
+
+
 ## Table of content
  - [Build](#build)
+ - [AI Architecture](#ai-architecture)
  - [Technology](#technology)
  - [Credit](#credit)
+
+<br>
+
+![gif](./Doc/attack.gif)
+![gif](./Doc/defense.gif)
+![gif](./Doc/move.gif)
+![gif](./Doc/exploration.gif)
 
 ## Build
 *Only on unity editor*
@@ -18,10 +28,7 @@ On this project, we have to make our own AI architecture.<br>
 We decide to make the architecture on 4 part, each part has 1 goal.
 We decide to make a system with 3 point of view.
 
-[png]()
-
-
-
+![png](./Doc/AI_RTS_Architecture.png)
 
 ## Technology
  - **Engine**: Unity 2022.3.9f1
